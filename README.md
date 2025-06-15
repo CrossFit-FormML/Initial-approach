@@ -1,4 +1,8 @@
 # Crossfit 프로젝트
+(초기 접근법 방법입니다. 해당 실험에서 성능이 좋지 못하여 2D데이터셋을 추가적인 개선작업을 new-approach-2d, new-approach-3d 레포지토리에서 진행하였습니다!)
+
+# 전체 크로스핏 데이터셋 분석 프로세스 순서도(Repository명)
+initial-approach(초기 접근법) -> new-approach-2d(2D 데이터셋 개선) -> new-approach-3d(차원 확장)
 
 ## 1. 프로젝트 개요
 크로스핏 운동 중 4가지 핵심 동작인 Deadlift, Press, Squat, Clean에서 발생하는 정상 자세와 오류자세를 분류하는 딥러닝 기반 시스템을 개발하는 것을 목표로 합니다.
